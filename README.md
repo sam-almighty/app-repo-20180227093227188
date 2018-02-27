@@ -14,7 +14,7 @@ Basic IBM Cloud Mobile Starter in Java
 * [License](#license)
 
 ### Summary       
-
+   
 
 The Basic IBM Cloud Mobile Starter is an empty project that has integration points for each of the IBM Cloud Mobile services.
 
